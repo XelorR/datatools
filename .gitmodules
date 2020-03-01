@@ -1,0 +1,3 @@
+[submodule "lib/iodata"]
+	path = lib/iodata
+	url = https://github.com/xelorr/iodata
